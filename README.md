@@ -1,2 +1,3 @@
 # GitHubPDC
-This is a GitHub Testing from PDC
+
+GitHubPDC is a repository for showing the bare minimum of github and how to maneuver, function, etc
